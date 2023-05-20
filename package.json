@@ -1,0 +1,13 @@
+{
+	"devDependencies": {
+		"electron": "^24.3.1"
+	},
+	"scripts": {
+		"start": "npx electron ."
+	},
+	"main": "main.js",
+	"name": "onepassword-ftp",
+	"author": "Freek Attema",
+	"license": "MIT",
+	"version": "1.0.0"
+}
